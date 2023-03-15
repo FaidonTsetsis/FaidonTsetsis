@@ -1,5 +1,9 @@
 # Hi there 👋 visitor!
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100"/>
+ </div>
+
 ## Who am I?
 - **Fullname:** Faidon Tsetsis
 - **Age:** 22 (born in 2000)
