@@ -6,7 +6,7 @@
 
 ## Who am I?
 - **Fullname:** Faidon Tsetsis &nbsp; _(pronunciation: Fed-on Che-chees)_
-- **Age:** 25 (18.03.2000)
+- **Age:** 26 (18.03.2000)
 
 ## BSc Computer Science
  Thesis: A systematic review of Decision Support Systems for diagnosis, prognosis and treatment for Parkinson's disease
